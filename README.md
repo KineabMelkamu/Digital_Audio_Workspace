@@ -15,4 +15,14 @@ Must have BASIC mixing
  - Playback
 
 
+RESOURCES 
+=====
+https://www.youtube.com/watch?v=FLkOX4Eez6o&list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG
+- JavaFX playlist guide
+youtube.com/watch?v=9XJicRt_FaI
+- 4 hr long vid for JavaFX/Scenebuilder
+https://www.youtube.com/watch?v=o-lAsVuskKI
+- Custom CSS for javaFX
+
+
 
