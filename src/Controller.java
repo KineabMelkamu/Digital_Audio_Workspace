@@ -6,7 +6,7 @@ public class Controller {
     private Accordion accordion;
 
     public void initialize() {
-
+        // adasd
 
     }
 
